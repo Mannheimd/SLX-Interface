@@ -1,0 +1,15 @@
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\bin\Debug\Ticket Logger.exe.config
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\Ticket Logger.exe
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\Ticket Logger.pdb
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\Ticket Logger.csprojResolveAssemblyReference.cache
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\MainWindow.g.cs
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\App.g.cs
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\Ticket Logger_MarkupCompile.cache
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\Ticket Logger_MarkupCompile.lref
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\bin\Debug\Ticket Logger.exe
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\bin\Debug\Ticket Logger.pdb
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\MainWindow.baml
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\Ticket Logger.g.resources
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\Ticket_Logger.Properties.Resources.resources
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\Ticket Logger.csproj.GenerateResource.Cache
+G:\Users\Chris\Dropbox\C# Things\SLX Reader\Ticket Logger\obj\Debug\GeneratedInternalTypeHelper.g.cs

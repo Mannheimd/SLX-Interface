@@ -1,0 +1,20 @@
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\SLX Interface.csprojResolveAssemblyReference.cache
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\MainWindow.g.cs
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\App.g.cs
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\MainWindow.baml
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\SLX Interface.csproj.GenerateResource.Cache
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\bin\Debug\SLX Interface.exe.config
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\SLX Interface_MarkupCompile.cache
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\SLX Interface_MarkupCompile.lref
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\LoginWindow.g.cs
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\bin\Debug\SLX Interface.exe
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\bin\Debug\SLX Interface.pdb
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\LoginWindow.baml
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\SLX Interface.g.resources
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\SLX_Interface.Properties.Resources.resources
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\SLX Interface.exe
+G:\Users\Chris\Dropbox\C# Things\SLX Interface\SLX Interface\obj\Debug\SLX Interface.pdb
+C:\Users\christopher.manders\Dropbox (Personal)\C# Things\SLX Interface - 2016.01.17\SLX Interface\bin\Debug\SLX Interface.exe.config
+C:\Users\christopher.manders\Dropbox (Personal)\C# Things\SLX Interface - 2016.01.17\SLX Interface\obj\Debug\SLX Interface.exe
+C:\Users\christopher.manders\Dropbox (Personal)\C# Things\SLX Interface - 2016.01.17\SLX Interface\obj\Debug\SLX Interface.pdb
